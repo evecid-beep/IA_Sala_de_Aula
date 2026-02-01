@@ -85,15 +85,10 @@ Essas adaptações garantem equidade sem segregação, mantendo todos os alunos 
 ## Arquivos do Projeto  
 
 - 📄 **Plano de Aula**  
-  - `Plano_de_Aula_IA.pdf`  
   - `Plano_de_Aula_IA.docx`  
 
 - 📊 **Apresentação**  
   - `Apresentacao_Aula_IA.pptx`  
-
-- 🧠 **Reflexão Crítica**  
-  - `Reflexao_IA.docx`  
-  - `Reflexao_IA.pdf`  
 
 ---
 
@@ -101,11 +96,8 @@ Essas adaptações garantem equidade sem segregação, mantendo todos os alunos 
 [Assistido por IA]
 
 - [x] Plano de aula completo  
-- [x] Materiais complementares  
-- [x] Adaptações para diferentes perfis  
-- [x] Uso explícito e transparente de IA  
-- [x] Reflexão crítica sobre o processo  
-- [x] Arquivos em formatos editáveis e PDF  
+- [x] Apresentação completa  
+ 
 
 ---
 
