@@ -1,2 +1,2 @@
 # IA_Sala_de_Aula
-IA em Sala de Aula - DIO
+Repositório do desafio em Inteligência Artificial aplicada à educação, focado em transformar aprendizagem em ação. Utiliza ChatGPT e Copilot para apoiar o planejamento de aulas, a criação de materiais didáticos, a adaptação de atividades para diferentes perfis de estudantes e a internacionalização de conteúdos, sempre com atenção à autoria, à ética e à proteção de dados. Uma proposta prática para desenvolver tomada de decisão e ampliar a fluência no uso pedagógico da IA.
